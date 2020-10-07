@@ -1,7 +1,7 @@
 # dependencies
 OMODs, modules, components, etc.
 
-## Source  
+## Sources  
 
 ### Appointment Scheduling Module for Bahmni  
 Repository: https://oss.sonatype.org/#nexus-search;quick~bahmni  
