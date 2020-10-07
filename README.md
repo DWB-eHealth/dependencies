@@ -9,5 +9,5 @@ OMODs, modules, components, etc.
 
 ### Bahmni IE Apps   
 - Repository: http://repo.mybahmni.org/artifactory/snapshot/org/bahmni/module/bahmni.ie.apps-omod/1.1.0-SNAPSHOT/  
-- http://repo.mybahmni.org.s3.amazonaws.com/artifactory/snapshot/org/bahmni/module/bahmni.ie.apps-omod/1.1.0-SNAPSHOT/bahmni.ie.apps-omod-1.1.0-20200510.131200-6.jar 
+- Output file: http://repo.mybahmni.org.s3.amazonaws.com/artifactory/snapshot/org/bahmni/module/bahmni.ie.apps-omod/1.1.0-SNAPSHOT/bahmni.ie.apps-omod-1.1.0-20200510.131200-6.jar 
 
