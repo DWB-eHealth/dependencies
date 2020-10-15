@@ -4,11 +4,11 @@ OMODs, modules, components, etc.
 ## Sources  
 
 ### Appointment Scheduling V2 for Bahmni  
-- OMOD module: https://github.com/bahmni/openmrs-module-appointments
-- Output file:
+- OMOD module: https://github.com/bahmni/openmrs-module-appointments  
+- Output file: https://github.com/DWB-eHealth/dependencies/raw/master/appointments-1.3.0-SNAPSHOT.omod  
 
-- Frontend UI: https://github.com/bahmni/openmrs-module-appointments-frontend/
-- Archive file:
+- Frontend UI: https://github.com/bahmni/openmrs-module-appointments-frontend/  
+- Archive file: https://github.com/DWB-eHealth/dependencies/raw/master/appointments.zip  
 
 
 ### Bahmni IE Apps   
