@@ -10,10 +10,13 @@ OMODs, modules, components, etc.
 - Frontend UI: https://github.com/bahmni/openmrs-module-appointments-frontend/  
 - Archive file: https://github.com/DWB-eHealth/dependencies/raw/master/appointments.zip  
 
-
 ### Bahmni IE Apps   
 - Repository: http://repo.mybahmni.org/artifactory/snapshot/org/bahmni/module/bahmni.ie.apps-omod/1.1.0-SNAPSHOT/  
 - Output file: http://repo.mybahmni.org.s3.amazonaws.com/artifactory/snapshot/org/bahmni/module/bahmni.ie.apps-omod/1.1.0-SNAPSHOT/bahmni.ie.apps-omod-1.1.0-20200510.131200-6.jar  
+
+### Patient Identifier patientidentifiergenerator  
+- OMOD module: https://github.com/DWB-eHealth/dependencies/raw/master/patientidentifiergenerator-0.1.0.omod   
+- Source repository: https://github.com/bahmni-msf/patient-identifier-generator  
 
 ### Bahmni Mart  
 - RPM: https://s3.ap-south-1.amazonaws.com/bahmni-mart/rpms/bahmni-mart-2.0.1-1.noarch.rpm  
